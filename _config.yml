@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chao Wang / Personal Homepage"
+title                    : "Personal Homepage"
 title_separator          : "-"
 name                     : &name "Chao Wang"
 description              : &description "A Ph.D. student from SEIEE, Shanghai Jiao Tong University."
-url                      : https://welet-chao.github.io/
+url                      : https://welet-chao.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
